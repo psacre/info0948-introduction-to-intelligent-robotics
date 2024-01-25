@@ -1,2 +1,7 @@
-# INFO0948 Introduction to intelligent robotics
-Materials for INFO0948 Introduction to intelligent robotics, ULiège, Spring 2023
+# INFO0948 Introduction to intelligent robotics - Spring 2024
+
+Welcome to this introductory course dedicated to intelligent robotics. The course can be splitted into three main parts:
+* Theoretical lectures
+* Homework
+* Project
+
