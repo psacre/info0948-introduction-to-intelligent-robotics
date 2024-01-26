@@ -1,6 +1,6 @@
 # INFO0948 Introduction to intelligent robotics - Spring 2024
 
-Welcome to the GitHub repository for the course "INFO0948-1 - Introduction to Intelligent Robotics"! This repository serves as a central hub for resources and information related to the course. From lecture slides to assignments, and all the way to the project guidelines, you will find everything here. We encourage collaboration and open communication, so don't hesitate to raise issues and contribute to discussions.
+Welcome to the GitHub repository for the course "INFO0948-1 - Introduction to Intelligent Robotics"! This repository serves as a central hub for resources and information related to the course. From lecture slides to assignments, and all the way to the project guidelines, you will find everything here. We encourage collaboration and open communication, so don't hesitate to raise issues and contribute to discussions on the [Edstem forum](https://edstem.org/) dedicated to this course.
 
 ### Lectures
 
