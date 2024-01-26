@@ -5,3 +5,7 @@ Welcome to this introductory course dedicated to intelligent robotics. The cours
 * Homework
 * Project
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
