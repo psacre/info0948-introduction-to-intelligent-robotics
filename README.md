@@ -14,8 +14,12 @@ Several tutorials will be organized throughout the semester. Those sessions will
 
 The content related to tutorials and homework can be found in the 'tutorials' folder.
 
-### Porject
+### Project
 
 The project is the part of the course that requires the most efforts. Your final grade will be almost entirely based on this work. By group of three students, you will have access to a Turtlebot and to a computer with the  softwares required to control the robot already installed. Note those robots and computers can't leave the laboratory, so you will be constrained to test your code there.
 
 The guidelines and all other usefull pieces of information about the project are gathered in the 'project' folder.
+
+### Setup
+
+In this course, you will have to work with [ROS2 Foxy](https://docs.ros.org/en/foxy/index.html) and a simulation environment called [Gazebo](https://docs.ros.org/en/foxy/index.html). The Foxy version of ROS2 requires Ubuntu 20.04 Focal Fossa. The 'setup' folder will guide you through the installations of a virtual machine Ubuntu 20.04, ROS2 and Gazebo.
