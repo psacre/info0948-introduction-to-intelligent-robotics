@@ -1,5 +1,5 @@
 # Project guidelines
-### Introduction 
+## Introduction 
 In this course, you will work with the third version of the turtle robot, namely TurtleBot3 Burger. The lab counts ten burger model robots (see Figure 1) to which you will have access during the semester. The TurtleBots can be controlled using the Robot Operating System 2 (ROS2). It is a set of open-source software libraries and tools that help you build robot applications. In addition to the state-of-the-art algorithms ROS2 already provides, you will have to code your own algorithms in Python. Each robot comes with a computer on which all the software you need is installed. Nevertheless, you will probably want to test your code with ROS2 and the simulation environment Gazebo on your own computer as the robots and their computer won't leave the lab. For this, please refer to the **setup** folder of this repository. 
 
 <p align="center">
@@ -12,7 +12,7 @@ The TurtleBots are equipped with a front camera and a LiDAR sensor that gives a 
   <img src="./images/environment.png" width="600" />
 </p>
 
-### Tasks
+## Tasks
 The project is done by **group of 3 students**. The goal of the project is to turn a TurtleBot3 into an autonomous pizza delivery driver. The project is divided into two tasks. They are detailed in the following. Note that there are no rules regarding the algorithms and codes you will use for this project as long as you understand what is done and how they work. You will have to motivate the choices you made in the final report and during the oral examination.
 
 #### Task 1 : autonomous environment exploration
@@ -28,7 +28,7 @@ In this task, the robot will receive a list of customers that are craving for pi
 
 You will be provided with the list of customers' Id's, published as a **std_msgs.msg.Int32MultiArray** message on the ROS2 topic **/delivery_locations**.
 
-### Demonstration
+## Demonstration
 You will have to demonstrate you project in an unknown real-world environment. The D-day will be organized as follows.
 * You will arrive **10 minutes before the time slot scheduled** for your demonstration, in order to setup everything and fix the issues you could experience.
 * When your scheduled time slot begins, you will have **30 minutes to try your implementation** on the map we prepared. We won't evaluate your work during this period and you are allowed to modify/adapt your code.
@@ -36,7 +36,7 @@ You will have to demonstrate you project in an unknown real-world environment. T
 
  During the demonstration, be prepared to answer questions about general concepts seen in the theoretical course.
 
-### Deliverables
+## Deliverables
 You will have to write a short report of about 5--10 pages describing and motivating your implementation choices. This report should also contain any information you judge relevant. You will also have to provide a zip archive of the workspace that contains your code, as well as a single launch file that launch all the necessary nodes to perform both tasks. The report and the archive should be uploaded on [Gradescope](https://www.gradescope.com/) at least 3 days before your project demonstration.
 
 ### Evaluation
