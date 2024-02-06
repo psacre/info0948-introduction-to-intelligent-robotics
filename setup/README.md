@@ -26,26 +26,26 @@ This folder is dedicated to the installation of the virtual machine on which ROS
 
 #### Mac OS X - Intel hosts (64-bit)
   1. Download and install [VirtualBox®](https://download.virtualbox.org/virtualbox/6.1.26/VirtualBox-6.1.26-145957-OSX.dmg) for Intel hosts.
-  2.Download the archive containing the virtual machine available on the course [OneDrive](test).
-  3.Start VirtualBox.
-  4.In VirtualBox, select the **Import Appliance** entry in the **File** menu.
-  5.Select the file you just downloaded and press **Next**.
-  6.Verify the virtual machine settings and press **Import**. The import process might take a few minutes.
-  7.The virtual machine is now added to your library.
-  8.In VirtualBox, start the virtual machine.
-  9.Depending on your host's network configuration, you might have to adjust the network settings of the virtual machine. If   10.on first start, the virtual machine displays a warning that a network interface was not found, press **Change Network Settings** and select the **Name** of your host's primary network adapter.
+  2. Download the archive containing the virtual machine available on the course [OneDrive](test).
+  3. Start VirtualBox.
+  4. In VirtualBox, select the **Import Appliance** entry in the **File** menu.
+  5. Select the file you just downloaded and press **Next**.
+  6. Verify the virtual machine settings and press **Import**. The import process might take a few minutes.
+  7. The virtual machine is now added to your library.
+  8. In VirtualBox, start the virtual machine.
+  9. Depending on your host's network configuration, you might have to adjust the network settings of the virtual machine.     10. If on first start, the virtual machine displays a warning that a network interface was not found, press **Change Network Settings** and select the **Name** of your host's primary network adapter.
 
 
 #### Mac OS X - Arm64 (M1/M2) hosts (64-bit)
   1. Download and install [VirtualBox®](https://download.virtualbox.org/virtualbox/7.0.8/VirtualBox-7.0.8_BETA4-156879-macOSArm64.dmg) for Arm64 (M1/M2) hosts. Note this is a Beta version of an outdated version of VirtualBox (the current version does not support the M1/M2 architecture).
-  2.Download the archive containing the virtual machine available on the course [OneDrive](test).
-  3.Start VirtualBox.
-  4.In VirtualBox, select the **Import Appliance** entry in the **File** menu.
-  5.Select the file you just downloaded and press **Next**.
-  6.Verify the virtual machine settings and press **Import**. The import process might take a few minutes.
-  7.The virtual machine is now added to your library.
-  8.In VirtualBox, start the virtual machine.
-  9.Depending on your host's network configuration, you might have to adjust the network settings of the virtual machine. If   10.on first start, the virtual machine displays a warning that a network interface was not found, press **Change Network Settings** and select the **Name** of your host's primary network adapter.
+  2. Download the archive containing the virtual machine available on the course [OneDrive](test).
+  3. Start VirtualBox.
+  4. In VirtualBox, select the **Import Appliance** entry in the **File** menu.
+  5. Select the file you just downloaded and press **Next**.
+  6. Verify the virtual machine settings and press **Import**. The import process might take a few minutes.
+  7. The virtual machine is now added to your library.
+  8. In VirtualBox, start the virtual machine.
+  9. Depending on your host's network configuration, you might have to adjust the network settings of the virtual machine.     10. If on first start, the virtual machine displays a warning that a network interface was not found, press **Change Network Settings** and select the **Name** of your host's primary network adapter.
 
 # Use of the virtual machine
 When you start the virtual machine with VMWare or VirtualBox, a window with Linux running will pop up. On the desktop, you will find a ROS terminal link on which ROS2 and Gazebo are installed. Note that opening the terminal with the shortcut Ctrl + alt + T will open a terminal that DO NOT have ROS2 and Gazebo installed. 
