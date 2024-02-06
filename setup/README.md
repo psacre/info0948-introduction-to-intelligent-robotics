@@ -47,5 +47,5 @@ This folder is dedicated to the installation of the virtual machine on which ROS
   8. In VirtualBox, start the virtual machine.
   9. Depending on your host's network configuration, you might have to adjust the network settings of the virtual machine.     10. If on first start, the virtual machine displays a warning that a network interface was not found, press **Change Network Settings** and select the **Name** of your host's primary network adapter.
 
-# Use of the virtual machine
+# Using the virtual machine
 When you start the virtual machine with VMWare or VirtualBox, a window with Linux running will pop up. On the desktop, you will find many shortcuts. One of them is called **ROS2 foxy terminal**. This shortcut will open a terminal with ROS2 foxy and Gazebo installed. Note that opening the terminal with the shortcut Ctrl + alt + T will open a terminal that DO NOT have ROS2 and Gazebo installed. The other shortcuts won't be usefull for this course.
