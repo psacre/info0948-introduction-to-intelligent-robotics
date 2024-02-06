@@ -22,4 +22,4 @@ The guidelines and all other usefull pieces of information about the project are
 
 ### Setup
 
-In this course, you will have to work with [ROS2 Foxy](https://docs.ros.org/en/foxy/index.html) and a simulation environment called [Gazebo](https://docs.ros.org/en/foxy/index.html). The Foxy version of ROS2 requires Ubuntu 20.04 Focal Fossa. The 'setup' folder will guide you through the installations of a virtual machine Ubuntu 20.04, ROS2 and Gazebo.
+In this course, you will have to work with [ROS2 Foxy](https://docs.ros.org/en/foxy/index.html) and a simulation environment called [Gazebo](https://docs.ros.org/en/foxy/index.html). The Foxy version of ROS2 requires Ubuntu 20.04 Focal Fossa. The 'setup' folder will guide you through the installation of a virtual machine Ubuntu 20.04, ROS2 and Gazebo.
