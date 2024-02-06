@@ -17,8 +17,8 @@ The project is done by **group of 3 students**. The goal of the project is to tu
 
 #### Task 1 : autonomous environment exploration
 In this part of the project, the robot starts in an unknown environment similar to Figure 2, in which ten customers that regularly eat pizzas are scattered. Each of them is represented by an aruco marker giving the corresponding customer's ID number. In this first task, the TurtleBot will have to autonomously:
-    * build a map of the environment and simultaneously locate itself on it (SLAM), and
-    * identify the customers (aruco markers) and memorize their pose on the map by broadcasting it as a static transform between the map and aruco frames in the [tf2 tree](https://docs.ros.org/en/foxy/Tutorials/Intermediate/Tf2/Introduction-To-Tf2.html).
+* build a map of the environment and simultaneously locate itself on it (SLAM), and
+* identify the customers (aruco markers) and memorize their pose on the map by broadcasting it as a static transform between the map and aruco frames in the [tf2 tree](https://docs.ros.org/en/foxy/Tutorials/Intermediate/Tf2/Introduction-To-Tf2.html).
  
 #### Task 2 : pizza delivery
 In this task, the robot will receive a list of customers that are craving for pizzas tonight (this list will be a subset of all customers present in the environment). The TurtleBot will have to visit all customers of the list in the order of its choice. The task is fulfilled when all pizzas are delivered. Note that
