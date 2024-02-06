@@ -1,9 +1,9 @@
 # Virtual machine setup
-This folder is dedicated to the installation of the virtual machine on which ROS2 and Gazebo are installed. Follow the instructions related to your operating system. Those instructions are taken from [Mathworks]{https://fr.mathworks.com/support/product/robotics/ros2-vm-installation-instructions-v6.html}.
+This folder is dedicated to the installation of the virtual machine on which ROS2 and Gazebo are installed. Follow the instructions related to your operating system. Those instructions are taken from [Mathworks](https://fr.mathworks.com/support/product/robotics/ros2-vm-installation-instructions-v6.html).
 
 #### Windows (64-bit)
-  1. Download and install the [VMware® Player software]{https://www.vmware.com/go/getplayer-win}.
-  2. Download the archive containing the virtual machine available on the course [OneDrive]{test}.
+  1. Download and install the [VMware® Player software](https://www.vmware.com/go/getplayer-win).
+  2. Download the archive containing the virtual machine available on the course [OneDrive](test).
   3. Decompress the archive to a location on your hard drive.
   4. Start VMware Player.
   5. In VMware Player, press **Open a Virtual Machine**.
@@ -13,9 +13,9 @@ This folder is dedicated to the installation of the virtual machine on which ROS
   9. Press **I copied it** if a window opens that asks if you copied or moved the virtual machine.
 
 #### Linux (64-bit)
-  1. Download the [VMware® Player software]{https://www.vmware.com/go/getplayer-linux} bundle.
+  1. Download the [VMware® Player software](https://www.vmware.com/go/getplayer-linux) bundle.
   2. Install VMware Player by executing the bundle installer with administrative privileges.
-  3. Download the archive containing the virtual machine available on the course [OneDrive]{test}.
+  3. Download the archive containing the virtual machine available on the course [OneDrive](test).
   4. Decompress the archive to a location on your hard drive.
   5. Start VMware Player.
   6. In VMware Player, press **Open a Virtual Machine**.
@@ -25,8 +25,8 @@ This folder is dedicated to the installation of the virtual machine on which ROS
   10. Press **I copied it** if a window opens that asks if you copied or moved the virtual machine.
 
 #### Mac OS X - Intel hosts (64-bit)
-  1. Download and install [VirtualBox®]{https://download.virtualbox.org/virtualbox/6.1.26/VirtualBox-6.1.26-145957-OSX.dmg} for Intel hosts.
-  2.Download the archive containing the virtual machine available on the course [OneDrive]{test}.
+  1. Download and install [VirtualBox®](https://download.virtualbox.org/virtualbox/6.1.26/VirtualBox-6.1.26-145957-OSX.dmg) for Intel hosts.
+  2.Download the archive containing the virtual machine available on the course [OneDrive](test).
   3.Start VirtualBox.
   4.In VirtualBox, select the **Import Appliance** entry in the **File** menu.
   5.Select the file you just downloaded and press **Next**.
@@ -37,8 +37,8 @@ This folder is dedicated to the installation of the virtual machine on which ROS
 
 
 #### Mac OS X - Arm64 (M1/M2) hosts (64-bit)
-  1. Download and install [VirtualBox®]{https://download.virtualbox.org/virtualbox/7.0.8/VirtualBox-7.0.8_BETA4-156879-macOSArm64.dmg} for Arm64 (M1/M2) hosts. Note this is a Beta version of an outdated version of VirtualBox (the current version does not support the M1/M2 architecture).
-  2.Download the archive containing the virtual machine available on the course [OneDrive]{test}.
+  1. Download and install [VirtualBox®](https://download.virtualbox.org/virtualbox/7.0.8/VirtualBox-7.0.8_BETA4-156879-macOSArm64.dmg) for Arm64 (M1/M2) hosts. Note this is a Beta version of an outdated version of VirtualBox (the current version does not support the M1/M2 architecture).
+  2.Download the archive containing the virtual machine available on the course [OneDrive](test).
   3.Start VirtualBox.
   4.In VirtualBox, select the **Import Appliance** entry in the **File** menu.
   5.Select the file you just downloaded and press **Next**.
