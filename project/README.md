@@ -17,22 +17,22 @@ The project is done by **group of 3 students**. The goal of the project is to tu
 
 #### Task 1 : autonomous environment exploration
 In this part of the project, the robot starts in an unknown environment similar to Figure 2, in which ten customers that regularly eat pizzas are scattered. Each of them is represented by an aruco marker giving the corresponding customer's ID number. In this first task, the TurtleBot will have to autonomously:
-* build a map of the environment and simultaneously locate itself on it (SLAM), and
+* build a map of the environment and simultaneously locate itself on it (SLAM);
 * identify the customers (aruco markers) and memorize their pose on the map by broadcasting it as a static transform between the map and aruco frames in the [tf2 tree](https://docs.ros.org/en/foxy/Tutorials/Intermediate/Tf2/Introduction-To-Tf2.html).
  
 #### Task 2 : pizza delivery
 In this task, the robot will receive a list of customers that are craving for pizzas tonight (this list will be a subset of all customers present in the environment). The TurtleBot will have to visit all customers of the list in the order of its choice. The task is fulfilled when all pizzas are delivered. Note that
-    * the robot should try to minimize its total delivery time (warmer the pizza, bigger the tip);
-    * for a pizza to be considered delivered, the robot has to make a 3-second stop at approximately 50 cm from the customer;
-    * it is necessary for the robot to face the customer when delivering the pizza (i.e., the camera should approximately face the aruco marker when the robot makes the stop).
+* the robot should try to minimize its total delivery time (warmer the pizza, bigger the tip);
+* for a pizza to be considered delivered, the robot has to make a 3-second stop at approximately 50 cm from the customer;
+* it is necessary for the robot to face the customer when delivering the pizza (i.e., the camera should approximately face the aruco marker when the robot makes the stop).
 
 You will be provided with the list of customers' Id's, published as a **std_msgs.msg.Int32MultiArray** message on the ROS2 topic **/delivery_locations**.
 
 ### Demonstration
 You will have to demonstrate you project in an unknown real-world environment. The D-day will be organized as follows.
-    * You will arrive **10 minutes before the time slot scheduled** for your demonstration, in order to setup everything and fix the issues you could experience. 
-    * When your scheduled time slot begins, you will have **30 minutes to try your implementation** on the map we prepared. We won't evaluate your work during this period and you are allowed to modify/adapt your code.
-    * Then, you will have **60 minutes to show us what your robot is able to do**. You will have to discuss the robot's behavior with us. In the sad eventuality that your robot is not able to explore the environment and/or to deliver pizzas, you will have the opportunity to show us working simulations.
+* You will arrive **10 minutes before the time slot scheduled** for your demonstration, in order to setup everything and fix the issues you could experience.
+* When your scheduled time slot begins, you will have **30 minutes to try your implementation** on the map we prepared. We won't evaluate your work during this period and you are allowed to modify/adapt your code.
+* Then, you will have **60 minutes to show us what your robot is able to do**. You will have to discuss the robot's behavior with us. In the sad eventuality that your robot is not able to explore the environment and/or to deliver pizzas, you will have the opportunity to show us working simulations.
 
  During the demonstration, be prepared to answer questions about general concepts seen in the theoretical course.
 
