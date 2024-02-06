@@ -4,4 +4,4 @@ In this course, you will work with the third version of the turtle robot, namely
 
 The TurtleBots are equipped with a front camera and a LiDAR sensor that gives a 360°-scan of the surrounding environment in a range-and-bearing fashion. In the project of this course, you will use a single robot in a closed environment, where the only obstacles are inert walls. Testing and debugging your code in a real-world setup is a tedious work. For this reason, you will first develop your codes in simulation using Gazebo. We will provide you with the simulating environment. Examples of real-world and simulation environments are shown in Figure 2.
 
-![image info](./images/robot.png)
+![image info](./images/robot.jpg)
