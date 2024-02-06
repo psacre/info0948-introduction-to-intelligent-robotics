@@ -6,6 +6,6 @@ The TurtleBots are equipped with a front camera and a LiDAR sensor that gives a 
 
 <p align="center">
   <img src="./images/robot.jpg" width="200" />
-  <center>This text is centered.</center>
 </p>
+<center>This text is centered.</center>
 
