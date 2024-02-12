@@ -3,7 +3,7 @@ This folder is dedicated to the installation of the virtual machine on which ROS
 
 #### Windows (64-bit)
   1. Download and install the [VMware® Player software](https://www.vmware.com/go/getplayer-win).
-  2. Download the [archive]() containing the virtual machine.
+  2. Download the [archive](https://mseduculiegebe-my.sharepoint.com/:u:/g/personal/sven_goffin_uliege_be/EcEvyeZmyP5Ek__h_FnzKEQBoXNf-VZzsrb38fgaM5P-Uw?e=a9SivD) containing the virtual machine.
   3. Decompress the archive to a location on your hard drive.
   4. Start VMware Player.
   5. In VMware Player, press **Open a Virtual Machine**.
@@ -16,7 +16,7 @@ This folder is dedicated to the installation of the virtual machine on which ROS
 #### Linux (64-bit)
   1. Download the [VMware® Player software](https://www.vmware.com/go/getplayer-linux) bundle.
   2. Install VMware Player by executing the bundle installer with administrative privileges.
-  3. Download the [archive]() containing the virtual machine.
+  3. Download the [archive](https://mseduculiegebe-my.sharepoint.com/:u:/g/personal/sven_goffin_uliege_be/EcEvyeZmyP5Ek__h_FnzKEQBoXNf-VZzsrb38fgaM5P-Uw?e=a9SivD) containing the virtual machine.
   4. Decompress the archive to a location on your hard drive.
   5. Start VMware Player.
   6. In VMware Player, press **Open a Virtual Machine**.
@@ -30,7 +30,7 @@ This folder is dedicated to the installation of the virtual machine on which ROS
   1. Create an account for personal use on the [VMWare® Fusion website](https://customerconnect.vmware.com/account-registration).
   2. Log in to your new account.
   3. Download and install [VMWare® Fusion](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal-13) for **Intel hosts**.
-  4. Download the [archive]() containing the virtual machine.
+  4. Download the [archive](https://mseduculiegebe-my.sharepoint.com/:u:/g/personal/sven_goffin_uliege_be/EcEvyeZmyP5Ek__h_FnzKEQBoXNf-VZzsrb38fgaM5P-Uw?e=a9SivD) containing the virtual machine.
   5. Decompress the archive to a location on your hard drive.
   6. Start VMware Player.
   7. In VMware Player, press **Open a Virtual Machine**.
