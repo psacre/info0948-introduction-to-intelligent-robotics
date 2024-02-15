@@ -12,4 +12,4 @@ The project is done using [ROS2 Foxy](https://docs.ros.org/en/foxy/index.html) a
 
 ### Tutorials
 
-If it is the first time you hear about ROS2 and Gazebo, don't worry. Two introductory sessions will be given in the beginning of the semester. The first one will be dedicated to ROS2 and the way it works. We will especially focus on tf2, the tree of transforms of your robot application. The second one will introduce Gazebo and how you can simulate the Turtlebot for the project. The content related to tutorials and homework can be found in the **tutorials folder**.
+If it is the first time you hear about ROS2 and Gazebo, don't worry. Two introductory sessions will be given in the beginning of the semester. The first one will be dedicated to ROS2 and the way it works. We will especially focus on tf2, the tree of transforms of your robot application. The second one will introduce Gazebo and how you can simulate the Turtlebot for the project. The content related to tutorials and homework can be found in the **[tutorials folder](tutorials)**.
