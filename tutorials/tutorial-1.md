@@ -6,26 +6,26 @@ An assignment is provided at the end of the tutorial to assess and apply what yo
 
 **Note**: In the links provided, you should always skip the `Prerequisites` part as it is not necessary
 ## 1. Get started with Concepts & CLI Tools
-This first part of the tutorial will make you understand the core principles of RoS so that you have an overview about how everything is working altogether. You will mainly use the terminal to run commands and interact with GUI.
-### Understanding the principles of RoS nodes
+This first part of the tutorial will make you understand the core principles of ROS2 so that you have an overview about how everything is working altogether. You will mainly use the terminal to run commands and interact with GUI.
+### Understanding the principles of ROS2 nodes
 - **Time Needed:** ~10 minutes
 - **Start Here:** [Understanding nodes](https://docs.ros.org/en/foxy/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Nodes/Understanding-ROS2-Nodes.html)
 
 Nodes are the basic unit of execution in ROS. They are processes that perform computation. Nodes can communicate with each other by publishing messages to topics.
 
-### Understanding the principles of RoS topics
+### Understanding the principles of ROS2 topics
 - **Time Needed:** ~20 minutes
 - **Start Here:** [Understanding topics](https://docs.ros.org/en/foxy/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Topics/Understanding-ROS2-Topics.html)
 
 Topics are named buses over which nodes exchange messages. Topics have a type, which defines the message type that can be published on a given topic.
 
-### Understanding the principles of RoS services
+### Understanding the principles of ROS2 services
 - **Time Needed:** ~10 minutes
 - **Start Here:** [Understanding services](https://docs.ros.org/en/foxy/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Services/Understanding-ROS2-Services.html)
 
 Services are a way for nodes to send a request and receive a response. They are defined by a pair of messages: one for the request and one for the response.
 
-### Understanding the principles of RoS actions
+### Understanding the principles of ROS2 actions
 - **Time Needed:** ~15 minutes
 - **Start Here:** [Understanding actions](link_to_advanced_techniques)
 
