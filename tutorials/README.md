@@ -1,8 +1,8 @@
 # INFO0948: Introduction to Intelligent Robotics - Tutorials
 
-Welcome to the tutorials for the Introduction to Intelligent Robotics course (INFO0948). In this repository, you will tutorials that will guide you through various concepts and techniques essential for your project.
+Welcome to the tutorials for the Introduction to Intelligent Robotics course (INFO0948). In this repository, you will find tutorials that will guide you through various concepts essential for your project.
 
-Each tutorial provide hands-on experience and practical knowledge that will help you understand and apply the principles of RoS and Gazebo with the turtlebot.
+Each tutorial provides hands-on experience and practical knowledge that will help you understand and apply the principles of RoS and Gazebo with the turtlebot.
 The programming language used in the tutorials is Python.
 
 ## Getting Started
@@ -15,8 +15,8 @@ There are only 2 tutorials but they are essential in order to start with the pro
 
 | Date | Tutorial | Homework Deadline |
 |------|----------|-------------------|
-| 16/02 | Tuto 1: [RoS Basics](tutorial-1.md) | TBD |
-| 23/02 | Tuto 2: [Gazebo & tf2](tutorial-2.md) | TBD |
+| 16/02 | Tuto 1: [RoS Basics](tutorial-1.md) | 23/02 |
+| 23/02 | Tuto 2: [Gazebo & tf2](tutorial-2.md) | 01/03 |
 
 
 Have fun learning and coding with RoS and Gazebo!
