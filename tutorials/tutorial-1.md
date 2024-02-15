@@ -1,6 +1,6 @@
 # INFO0948 - Tutorial 1 : Introduction to RoS
 
-Welcome to the INFO0948 course! This tutorial will guide you through key milestones to help you grasp the fundamentals. Each milestone includes an estimated time commitment, links to the relevant documentation, and a brief description of the content covered.
+Welcome to the INFO0948 course! This tutorial will guide you through key milestones to help you grasp the fundamentals. Each milestone includes an estimated time commitment, links to the relevant documentation.
 
 An assignment is provided at the end of the tutorial to assess and apply what you learnt during the tutorial. 
 
