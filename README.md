@@ -4,7 +4,7 @@ Welcome to the GitHub repository for the course "INFO0948-1 - Introduction to In
 
 ### Project
 
-The project is the part of the course that requires the most efforts. Your final grade will be almost entirely based on this work. By **group of three students**, you will have access to a Turtlebot and to a computer with the  softwares required to control the robot already installed. Note those robots and computers won't leave the laboratory. In order to test your code somewhere elese than in the lab, follow the instructions given in the **PC setup** folder. The guidelines and all other usefull pieces of information about the project are gathered in the **project folder**.
+The project is the part of the course that requires the most efforts. Your final grade will be for the main part based on this work. By **group of three students**, you will have access to a Turtlebot and to a computer with the  softwares required to control the robot already installed. Note those robots and computers won't leave the laboratory. In order to test your code somewhere elese than in the lab, follow the instructions given in the **PC setup** folder. The guidelines and all other usefull pieces of information about the project are gathered in the **project folder**.
 
 ### PC Setup
 
