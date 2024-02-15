@@ -7,7 +7,7 @@ The programming language used in the tutorials is Python.
 
 ## Getting Started
 
-Before you begin with the tutorials, make sure you have correctly set up the virtual machine with VMware® Player software as explained [here](../PC setup/README.md).
+Before you begin with the tutorials, make sure you have correctly set up the virtual machine with VMware® Player software as explained [here](PC setup/README.md).
 
 ### Structure
 
