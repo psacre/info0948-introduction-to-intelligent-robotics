@@ -15,8 +15,8 @@ There are only 2 tutorials but they are essential in order to start with the pro
 
 | Date | Tutorial | Homework Deadline |
 |------|----------|-------------------|
-| 16/02 | [RoS Basics](tutorial-1.md) | TBD |
-| 23/02 | [Gazebo & tf2](tutorial-2.md) | TBD |
+| 16/02 | Tuto 1: [RoS Basics](tutorial-1.md) | TBD |
+| 23/02 | Tuto 2: [Gazebo & tf2](tutorial-2.md) | TBD |
 
 
 Have fun learning and coding with RoS and Gazebo!
