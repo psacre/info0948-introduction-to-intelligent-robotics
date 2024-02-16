@@ -74,7 +74,7 @@ The goal of this homework is to apply the concepts you learned during the first 
   6. Modify the files <tt>setup.py</tt> and <tt>package.xml</tt> so that the node written in <tt>vector_publisher.py</tt> can be run with the command <tt>ros2 run tuto_1 vector_publisher</tt>.
   7. Write the content of the file <tt>rotation_node.py</tt>. The node should perform the following tasks:
         * read the vector published as a <tt>std_msgs.msg.Float32MultiArray</tt> message every 0.5 seconds on the topic <tt>bearing_vector</tt>,
-        * apply a rotation of $\pi/5$ rad around the axis $\[0.707, 0.0, 0.707\]$ to the retrieved vector (hint : use the scipy library),
+        * apply a rotation of $\pi/5$ rad around the axis $[0.707, 0.0, 0.707]$ to the retrieved vector (hint : use the scipy library),
         * publish the rotated vector as a <tt>std_msgs.msg.Float32MultiArray</tt> message on a topic called <tt>rotated_vector</tt>.
   8. Build your package with `colcon` and source the setup file.
   9. Test your code by first running the command <tt>ros2 run tuto_1 vector_publisher</tt> in a terminal, and then by running the command <tt>ros2 run tuto_1 rotation_node</tt> in another terminal.
