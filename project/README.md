@@ -15,12 +15,12 @@ The TurtleBots are equipped with a front camera and a LiDAR sensor that gives a 
 ## Tasks
 The project is done by **group of 3 students**. The goal of the project is to turn a TurtleBot3 into an autonomous pizza delivery driver. The project is divided into two tasks. They are detailed in the following. Note that there are no rules regarding the algorithms and codes you will use for this project as long as you understand what is done and how they work. You will have to motivate the choices you made in the final report and during the oral examination.
 
-#### Task 1 : autonomous environment exploration
+#### Task 1: Autonomous environment exploration
 In this part of the project, the robot starts in an unknown environment similar to Figure 2, in which ten customers that regularly eat pizzas are scattered. Each of them is represented by an aruco marker giving the corresponding customer's ID number. In this first task, the TurtleBot will have to autonomously:
 * build a map of the environment and simultaneously locate itself on it (SLAM);
 * identify the customers (aruco markers) and memorize their pose on the map by broadcasting it as a static transform between the map and aruco frames in the [tf2 tree](https://docs.ros.org/en/foxy/Tutorials/Intermediate/Tf2/Introduction-To-Tf2.html).
  
-#### Task 2 : pizza delivery
+#### Task 2: Pizza delivery
 In this task, the robot will receive a list of customers that are craving for pizzas tonight (this list will be a subset of all customers present in the environment). The TurtleBot will have to visit all customers of the list in the order of its choice. The task is fulfilled when all pizzas are delivered. Note that
 * the robot should try to minimize its total delivery time (warmer the pizza, bigger the tip);
 * for a pizza to be considered delivered, the robot has to make a 3-second stop at approximately 50 cm from the customer;
@@ -40,4 +40,4 @@ You will have to demonstrate you project in an unknown real-world environment. T
 You will have to write a short report of about 5--10 pages describing and motivating your implementation choices. This report should also contain any information you judge relevant. You will also have to provide a zip archive of the workspace that contains your code, as well as a single launch file that launch all the necessary nodes to perform both tasks. The report and the archive should be uploaded on [Gradescope](https://www.gradescope.com/) at least 3 days before your project demonstration.
 
 ### Evaluation
-Your evaluation for this course will be based on the demonstration of your project in the real-world environment we prepared. Note that the effort you put in the report will also be taken into account. An appreciation will be given at your advantage to the homework you did during the semester.
+Your evaluation for this project will be based on the demonstration of your project in the real-world environment we prepared. Note that the effort you put in the report will also be taken into account. 
