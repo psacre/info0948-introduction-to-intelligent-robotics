@@ -1,6 +1,4 @@
-# INFO0948: Introduction to Intelligent Robotics - Tutorials
-
-Welcome to the tutorials for the course *Introduction to Intelligent Robotics course* (INFO0948-1)! 
+# Tutorials
 
 In this repository, you will find tutorials that will guide you through various concepts essential for your project.
 
@@ -17,8 +15,8 @@ There are only 2 tutorials but they are essential in order to start with the pro
 
 | Date | Tutorial | Homework Deadline |
 |------|----------|-------------------|
-| 16/02 | Tuto 1: [RoS Basics](tutorial-1.md) | 01/03 |
-| 23/02 | Tuto 2: [Gazebo & tf2](tutorial-2.md) | 08/03 |
+| 16/02 | Tutorial ROS2 #1: [ROS2 Basics](tutorial-1.md) | 01/03 |
+| 23/02 | Tutorial ROS2 #2: [Gazebo & tf2](tutorial-2.md) | 08/03 |
 
 
-Have fun learning and coding with RoS and Gazebo!
+Have fun learning and coding with ROS2 and Gazebo!
