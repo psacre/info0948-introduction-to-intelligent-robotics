@@ -1,12 +1,12 @@
-# INFO0948 - Introduction to intelligent robotics
+# INFO0948-2 - Introduction to intelligent robotics
 
-Welcome to the GitHub repository for the course *Introduction to Intelligent Robotics* (INFO0948-1)! 
+Welcome to the GitHub repository for the course *Introduction to Intelligent Robotics (INFO0948-2)*! 
 
 This repository serves as a central hub for resources and information related to the project of the course. We encourage collaboration and open communication, so don't hesitate to contribute to discussions and/or raise issues on the [Ed Discussion](https://edstem.org/) dedicated to this course.
 
 ### Project
 
-The project is the part of the course that requires the most efforts. Your final grade will be (for the main part) based on this work. By **group of three students**, you will have access to a TurtleBot and to a computer with the  softwares required to control the robot already installed. Note those robots and computers won't leave the laboratory. In order to test your code somewhere else than in the lab, follow the instructions given in the [PC setup folder](<PC setup>). The guidelines and all other useful pieces of information about the project are gathered in the [project folder](<project>).
+The project is the part of the course that requires the most efforts. Your final grade will be (for the main part) based on this work. By **group of three students**, you will have access to a TurtleBot3 Burger and to a computer with the  softwares required to control the robot already installed. Note those robots and computers won't leave the laboratory. In order to test your code somewhere else than in the lab, follow the instructions given in the [PC setup folder](<PC setup>). The guidelines and all other useful pieces of information about the project are gathered in the [project folder](<project>).
 
 ### PC Setup
 
@@ -14,4 +14,4 @@ The project is done using [ROS2 Foxy](https://docs.ros.org/en/foxy/index.html) a
 
 ### Tutorials
 
-If it is the first time you hear about ROS2 and Gazebo, don't worry. Two introductory sessions will be given in the beginning of the semester. The first one will be dedicated to ROS2 and the way it works. The second one will introduce Gazebo and how you can simulate the TurtleBot for the project. We will also focus on `tf2`, the tree of transforms of your robot application. The content related to tutorials and homework can be found in the [tutorials folder](tutorials).
+If it is the first time you hear about ROS2 and Gazebo, don't worry. Two introductory sessions will be given in the beginning of the semester. The first one will be dedicated to ROS2 and the way it works. The second one will introduce Gazebo and how you can simulate the TurtleBot3 Burger for the project. We will also focus on `tf2`, the tree of transforms of your robot application. The content related to tutorials and homework can be found in the [tutorials folder](tutorials).
